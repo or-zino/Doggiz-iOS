@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		800410092860E1B600D50223 /* ShareDog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800410082860E1B600D50223 /* ShareDog.swift */; };
 		8004100C2867920700D50223 /* SimpleToast in Frameworks */ = {isa = PBXBuildFile; productRef = 8004100B2867920700D50223 /* SimpleToast */; };
+		803392E92868E86100550E17 /* Doggiz-ios in Resources */ = {isa = PBXBuildFile; fileRef = 803392E82868E86000550E17 /* Doggiz-ios */; };
 		8072282028578ED900246A79 /* Doggiz_iosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8072281F28578ED900246A79 /* Doggiz_iosApp.swift */; };
 		8072282228578ED900246A79 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8072282128578ED900246A79 /* ContentView.swift */; };
 		8072282428578EDA00246A79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8072282328578EDA00246A79 /* Assets.xcassets */; };
@@ -52,6 +53,7 @@
 
 /* Begin PBXFileReference section */
 		800410082860E1B600D50223 /* ShareDog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareDog.swift; sourceTree = "<group>"; };
+		803392E82868E86000550E17 /* Doggiz-ios */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Doggiz-ios"; sourceTree = "<group>"; };
 		8072281C28578ED900246A79 /* Doggiz-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Doggiz-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8072281F28578ED900246A79 /* Doggiz_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Doggiz_iosApp.swift; sourceTree = "<group>"; };
 		8072282128578ED900246A79 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				8072281E28578ED900246A79 /* Doggiz-ios */,
+				803392E82868E86000550E17 /* Doggiz-ios */,
 				8072281D28578ED900246A79 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 			files = (
 				8072282728578EDA00246A79 /* Preview Assets.xcassets in Resources */,
 				8072282428578EDA00246A79 /* Assets.xcassets in Resources */,
+				803392E92868E86100550E17 /* Doggiz-ios in Resources */,
 				80722836285E265900246A79 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
